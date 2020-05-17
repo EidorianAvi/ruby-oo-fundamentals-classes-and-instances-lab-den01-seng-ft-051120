@@ -1,6 +1,6 @@
 class Dog 
 end
 
-riku = Dog.new 
-blondee = Dog.new 
-scoobee = Dog.new
+fido = Dog.new 
+snoopy = Dog.new 
+lassie = Dog.new
